@@ -1,7 +1,7 @@
-title: "Blog Title"
-author: "Blog Author"
+title: "@Gitblog(\"nayonnii\")"
+author: "nayonnii"
 description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
-permalink: /:title/
+permalink: "https://nayonnii.github.io/"
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
@@ -20,9 +20,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Mail, icon: envelope, url: "mailto:nyovv26@naver.com"}
+  - {title: Github, icon: github, url: "https://nayonnii.github.io/"}
+#  - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
