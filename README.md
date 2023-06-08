@@ -6,7 +6,7 @@ layout: page
 
 
 
-## 소개
+<!-- ## introduction -->
 
 <figure>
 <style> 
@@ -16,7 +16,7 @@ layout: page
     display: flex;
 }
 .profile-img-container {
-    width: 20%;
+    width: 100px;
     height: 20%; 
     overflow: hidden;
 }
@@ -27,8 +27,10 @@ layout: page
     object-fit: cover;
 }
 .profile-txt-container {
-margin-left: 40px;
+margin-left: 5%;
 width: 70%;
+display: flex;
+aligh-items: center;
 }
 </style>
 
@@ -37,16 +39,17 @@ width: 70%;
     <img class="profile-img" src="https://github.com/nayonnii/nayonnii.github.io/assets/126767770/f5f0c5c4-5bb4-4ae3-8e06-9acc3da6990e">
 </div>
 <div class="profile-txt-container" >
-    <p>야구를 좋아하는 개발자 준비생입니다.</p>
+    <p>⚾야구를 좋아하는 개발자 준비생의 블로그입니다💻</p>
 </div>
 </div>
-    
-
+<hr>
 </figure>
 
 
 
-## 스킬
+## Study
 
- - 업데이트 예정
+ - Java
+ - Spring
+ - MySQL
 
