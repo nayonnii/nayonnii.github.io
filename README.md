@@ -19,7 +19,6 @@ layout: page
     width: 100px;
     height: 20%; 
     overflow: hidden;
-    position: relative;
 }
 .profile-img {
     width: 100%;
@@ -28,14 +27,15 @@ layout: page
     object-fit: cover;
 }
 .profile-txt-container {
-margin-left: 5%;
-width: 70%;
+    margin-left: 5%;
+    width: 70%;
+    position: relative;
 }
 .profile-txt {
-text-align: justify;
-height: min-content;
-position: absolute;
-top: 20%;
+    text-align: justify;
+    height: min-content;
+    position: absolute;
+    top: 20%;
 }   
 </style>
 
