@@ -19,6 +19,7 @@ layout: page
     width: 100px;
     height: 20%; 
     overflow: hidden;
+    position: relative;
 }
 .profile-img {
     width: 100%;
@@ -29,9 +30,13 @@ layout: page
 .profile-txt-container {
 margin-left: 5%;
 width: 70%;
-display: flex;
-aligh-items: center;
 }
+.profile-txt {
+text-align: justify;
+height: min-content;
+position: absolute;
+top: 20%;
+}   
 </style>
 
 <div class="profile-container">
@@ -39,7 +44,7 @@ aligh-items: center;
     <img class="profile-img" src="https://github.com/nayonnii/nayonnii.github.io/assets/126767770/f5f0c5c4-5bb4-4ae3-8e06-9acc3da6990e">
 </div>
 <div class="profile-txt-container" >
-    <p>⚾야구를 좋아하는 개발자 준비생의 블로그입니다💻</p>
+    <p class="profile-txt">⚾야구를 좋아하는 개발자 준비생의 블로그입니다💻</p>
 </div>
 </div>
 <hr>
