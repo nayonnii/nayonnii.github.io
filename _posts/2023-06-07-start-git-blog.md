@@ -1,6 +1,7 @@
 ---
 title: "git blog 완성!"
 layout: post
+comments: true
 ---
 
 우여곡절 끝에 깃 블로그를 완성하게 되었다.<br>
